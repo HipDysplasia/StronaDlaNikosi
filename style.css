@@ -1,0 +1,162 @@
+body {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin: 0;
+    overflow-x: hidden;
+    background: rgb(208,116,255);
+    background: -moz-linear-gradient(178deg, rgba(208,116,255,0.5592612044817927) 0%, rgba(254,255,160,0.48363095238095233) 50%, rgba(0,234,255,0.5060399159663865) 100%);
+    background: -webkit-linear-gradient(178deg, rgba(208,116,255,0.5592612044817927) 0%, rgba(254,255,160,0.48363095238095233) 50%, rgba(0,234,255,0.5060399159663865) 100%);
+    background: linear-gradient(178deg, rgba(208,116,255,0.5592612044817927) 0%, rgba(254,255,160,0.48363095238095233) 50%, rgba(0,234,255,0.5060399159663865) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d074ff",endColorstr="#00eaff",GradientType=1);
+
+}
+
+.header {
+    background: linear-gradient(to right, #ff99cc, #ff66b2);
+    text-align: center;
+    padding: 20px;
+    font-family: Papyrus, fantasy;
+}
+
+.header h1 {
+    color: white;
+}
+
+.header img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.navbar {
+    background-color: #ff66b2;
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #ff99cc;
+}
+
+.content {
+    max-width: 1200px; /* Set a maximum width for content */
+    margin: 0 auto; /* Center content */
+    padding: 20px;
+}
+
+.block {
+    width: 100%; /* Full width */
+    margin: 10px 0; /* Adjusted margin for better spacing */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.pink {
+    background-color: #ff99cc;
+}
+
+.light-blue {
+    background-color: #99ccff;
+}
+
+.light-green {
+    background-color: #ccffcc;
+}
+
+.bland-yellow {
+    background-color: #ffcc99;
+}
+
+.purple {
+    background-color: #cc99ff;
+}
+
+.footer {
+    background-color: #ff66b2;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p {
+    color: white;
+    margin: 0;
+}
+
+#kotex {
+    width: 300px;
+    height: 120px;
+}
+
+#Title {
+    width: 67%;
+    text-align: center;
+    font-size: 400%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#text {
+    font-size: 20px;
+}
+
+#kwadrat {
+    background-color: #ff006a;
+    border: solid black 1px;
+    width: 100px;
+    height: 100px;
+    color: #ff006a;
+    content-visibility: hidden;
+}
+
+#kwadrat:hover {
+    background-color: #7e00ff;
+    border: solid black 1px;
+    width: 100px;
+    height: 100px;
+    content-visibility: visible;
+}
+
+#rank1, #rank2, #rank3, #rank4, #rank5 {
+    width: 500px;
+    height: fit-content;
+}
+
+#fistach {
+    width: 800px;
+    height: fit-content;
+}
+
+#BlarkSon0 {
+    width: 500px;
+    height: fit-content;
+}
+
+#characterimage {
+    width: 500px;
+    height: 500px;
+}
+
+#jaja1, #jaja3 {
+    width: 300px;
+    height: fit-content;
+}
+
+#jaja2 {
+    width: 400px;
+    height: fit-content;
+}
+
+#jaja4 {
+    width: 800px;
+    height: fit-content;
+}
+
+#jaja5 {
+    width: 450px;
+    height: fit-content;
+}
