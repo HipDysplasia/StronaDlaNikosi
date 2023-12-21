@@ -59,7 +59,7 @@ function option10() {
 }
 
 function changeText(element) {
-    element.textContent = '♥ kocham cię ♥';
+    element.textContent = 'nie klikaj >~<';
   }
 
   function restoreText(element) {
